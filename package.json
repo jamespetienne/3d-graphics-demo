@@ -1,7 +1,7 @@
 {
   "name": "graphics-demo-project",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "npx serve .",
     "build": "echo 'Build step for static files. Adjust as needed.'",
@@ -19,4 +19,5 @@
     "gh-pages": "^4.0.0"
   }
 }
+
 
