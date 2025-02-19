@@ -2,9 +2,9 @@
 
 This project is a demonstration of interactive 3D graphics using Three.js. It showcases various features such as lighting effects, post-processing, animations, and dynamic object rendering in a web-based environment. The project is designed to provide a visually engaging and interactive experience for users.
 
----
+https://jamespetienne.github.io/3d-graphics-demo/
 
-[Live Demo](https://jamespetienne.github.io/3d-graphics-demo/)
+---
 
 ## **Project Description**
 
