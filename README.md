@@ -61,6 +61,8 @@ The project demonstrates how to combine Three.js features, custom shaders, and p
 
 <img width="1728" alt="Screenshot 2025-02-18 at 10 55 18 PM" src="https://github.com/user-attachments/assets/26735b87-209e-416c-bc0c-5a8af690b4ee" />
 
+![ScreenRecording2025-02-18at11 12 18PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/79551f2f-48e0-446e-a88f-c05a0080f96d)
+
 ---
 
 ## **How to Run Locally**
