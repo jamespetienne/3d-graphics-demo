@@ -59,6 +59,7 @@ The project demonstrates how to combine Three.js features, custom shaders, and p
 
 ## Webpage Views
 
+<img width="1728" alt="Screenshot 2025-02-18 at 10 55 18 PM" src="https://github.com/user-attachments/assets/26735b87-209e-416c-bc0c-5a8af690b4ee" />
 
 ---
 
