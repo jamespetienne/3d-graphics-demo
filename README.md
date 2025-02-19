@@ -4,6 +4,8 @@ This project is a demonstration of interactive 3D graphics using Three.js. It sh
 
 ---
 
+[Live Demo](https://jamespetienne.github.io/3d-graphics-demo/)
+
 ## **Project Description**
 
 This 3D Graphics Demo leverages Three.js to create a visually rich and interactive scene. The project includes:
